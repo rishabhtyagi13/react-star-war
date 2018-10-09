@@ -1,0 +1,24 @@
+.loader{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loader__image{
+    height: 6rem;
+    width: 6rem;
+}
+
+.table-header{
+    background-color: #ff9e26;
+}
+
+.table-body{
+    background-color: #d3f2ff;
+}
+
+.col-xs-6 col-sm-6 col-md-6 col-lg-8{
+    width: 461px;
+}
